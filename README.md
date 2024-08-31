@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning advanced python
 - and yeah This is my LinkedIn account: https://www.linkedin.com/in/pavithra-m-0b1662264/
 - 😄 Pronouns: She
-- ⚡ Fun fact: A weeb just likes manga, anime and listen to Taylor Swift...
 
 <!---
 pavitra215/pavitra215 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
