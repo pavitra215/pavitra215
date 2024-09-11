@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Pavithra M
-- 👀 I’m interested to become a data analyst
+- 👀 I express my interest in pursuing data analyst career
 - 🌱 I’m currently learning advanced python
-- and yeah This is my LinkedIn account: https://www.linkedin.com/in/pavithra-m-0b1662264/
-- 😄 Pronouns: She
+- and yeah this is my LinkedIn account: https://www.linkedin.com/in/pavithra-m-0b1662264/
+
 
 <!---
 pavitra215/pavitra215 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
