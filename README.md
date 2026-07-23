@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi there 👋, I'm Pavithra M
 
-<!--
-**pavitra215/pavitra215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 AI Engineer | Machine Learning & Generative AI Enthusiast
 
-Here are some ideas to get you started:
+🎓 Computer Science Graduate(2022-2026)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Interested in:
+- Large Language Models (LLMs)
+- AI Agents
+- NLP
+- Generative AI
+- Production AI Systems
+- Backend Development
+
+📌 Current Project:
+- LLM Guardrails Gateway (FastAPI + LangChain + Gemini)
+
+🌱 Currently learning:
+- Agentic AI
+- AI System Design
+
+📫 LinkedIn:
+www.linkedin.com/in/pavithra-m-0b1662264
