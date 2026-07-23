@@ -13,7 +13,7 @@ Hi there 👋, I'm Pavithra M
 - Backend Development
 
 📌 Current Project:
-- LLM Guardrails Gateway (FastAPI + LangChain + Gemini)
+- Production-ready AI Gateway with FastAPI, LangChain, Gemini, Guardrails, Authentication, Logging, and Audit Trails.
 
 🌱 Currently learning:
 - Agentic AI
